@@ -1,6 +1,6 @@
 # KickStartProblems
 
-This is a collection of google kickstart problems that I solved in preperation for the March 2021 competition.
+This is a collection of google kickstart problems that I solved.
 
 KickStart: https://codingcompetitions.withgoogle.com/kickstart/round/00000000001a0069/0000000000414bfb
 
